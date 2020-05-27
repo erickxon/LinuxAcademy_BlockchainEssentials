@@ -1,9 +1,9 @@
 
 # Introduction
 
-```
+`
 Blockchain is a decentralized mechanism that establishes a consensus for past and current transactions, divided onto blocks. It represents a data structure.
-```
+`
 
 ## Four Characteristics
 - **decentralized:** no central point of control - depends on 51% of the network 
@@ -29,6 +29,26 @@ Blockchain is a decentralized mechanism that establishes a consensus for past an
     - transactions/events
     - signatures
   - consensus mechanism (proof of work)
+
+## Types of Blockchains
+### Public Blockchains
+![alt text](./publicblockchain.png "publicblockchain")
+- bitcoin
+  - proof of work
+  - anyone can:
+    - read
+    - write
+    - participate
+  - decentralized
+  - append only
+  - transparent
+  - encrypted
+  - anonymous
+### Private Blockchian
+- invite only/permission-based participation
+
+
+
 
 
 
