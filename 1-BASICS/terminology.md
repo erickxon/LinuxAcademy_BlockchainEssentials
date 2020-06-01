@@ -109,7 +109,7 @@
 - is a network of machines that run the same software and are public nodes
 
 
-## Soliity
+## Solidity
 - high level programming language that is based on contracts
 - used to implement smart contracts
 

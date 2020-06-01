@@ -73,7 +73,25 @@ Blockchain is a decentralized mechanism that establishes a consensus for past an
 ### Tokenless Blockchains
 - not real blockchains because they lack the basic transfer of value unti
 
+# Blockchain vs Cryptocurrency
+Blockchain
+```
+- datastorage
+- digital identity
+- transactions
+- consensus
+```
 
+Cryptocurrency
+```
+- medium of exchange
+- store of value
+- currency
+- representation of assets
+- an implementation of a blockchain 
+```
+- new versions of able to store code that executes and acts in accordance to the predefined rules
+- blockchain is not limited to transaction data; blockchain can store any data
 
 
 
