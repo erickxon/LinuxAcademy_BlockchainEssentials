@@ -1,8 +1,8 @@
 # Index
 
-[0) Terminology](./1-Basics/terminology.md)
+[0) Terminology](./1-BASICS/terminology.md)
 
-[1) Blockchain Basics](./1-Basics/blockchain_basics.md)
+[1) Blockchain Basics](./1-BASICS/blockchain_basics.md)
 
 [2a) Blockchain Architecture](./2-Architecture/blockchain_architecture.md)
 
