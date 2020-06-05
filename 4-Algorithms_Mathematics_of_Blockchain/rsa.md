@@ -1,4 +1,4 @@
-# Riverst-Shamir-Adleman (1978) 
+# Rivest-Shamir-Adleman (1978) 
 ```
 - succeeds the less secure NBS algorithm
 - implements to significant terms:
