@@ -10,3 +10,10 @@
 
 [3) Consensus Mechanisms](./3-Consensus_Mechanisms/consensusmechanisms.md)
 
+[4a) Prime Numbers](./4-Algorithms_Mathematics_of_Blockchain/primenumbers.md.md)
+
+[4b) RNG](./4-Algorithms_Mathematics_of_Blockchain/rng.md`)
+
+[4c) RSA](./4-Algorithms_Mathematics_of_Blockchain/rsa.md)
+
+
