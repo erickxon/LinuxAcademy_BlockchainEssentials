@@ -16,4 +16,6 @@
 
 [4c) RSA](./4-Algorithms_Mathematics_of_Blockchain/rsa.md)
 
+[4d) SHA](./4-Algorithms_Mathematics_of_Blockchain/sha.md)
+
 
