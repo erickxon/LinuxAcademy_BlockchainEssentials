@@ -18,4 +18,7 @@
 
 [4d) SHA](./4-Algorithms_Mathematics_of_Blockchain/sha.md)
 
+[5) Ethereum Case study](./5-Ethereum_Case_Study/ethereum.md)
+
+
 
